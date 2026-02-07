@@ -14,5 +14,13 @@ touch src/domain/Task.ts
 
 ## 3.カスタムフック
 
+hooksフォルダがぬけてる？
 mkdir src/hooks
 をしないとフォルダがないので躓くかと思われます
+
+## 5.Compound Component
+
+src/App.tsx
+ではなく
+src/index.css
+かと思われます
