@@ -11,3 +11,8 @@ mkdir src/domain
 cd react-design
 mkdir src/domain
 touch src/domain/Task.ts
+
+## 3.カスタムフック
+
+mkdir src/hooks
+をしないとフォルダがないので躓くかと思われます
